@@ -1,0 +1,7 @@
+Adjust leave types and employee defaults; remove database integration
+
+Refactors leave balance allocation, updates default admin user, and removes database connection setup.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 4b8df212-f932-405c-9357-7dd772e8261b
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/84ac0d1b-a6b3-4eb5-b7cd-e8522c59efed/b1823c9c-f1ee-4bf9-8300-e8cce6b60579.jpg
